@@ -1,4 +1,10 @@
+@font-face {
+	font-family: 'Myriad Pro';
+	src: url(../fonts/myriad_pro.otf);
+}
+
 body {
+	font-family: 'Myriad Pro';
 	background-color: #DCDCDC;
 }
 
@@ -31,6 +37,9 @@ header li.active a {
 
 .content {
 	padding: 30px 15px;
+}
+.content.blanco {
+	background-color: #fff;
 }
 
 .gradient {
@@ -174,4 +183,9 @@ footer h4 {
 	padding: 20px 10px;
 	margin: 20px 0;
 	color: #8b8b8b;
+	line-height: 28px;
+}
+
+.follow-us img {
+	margin-left: 20px;
 }
