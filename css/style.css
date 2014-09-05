@@ -69,17 +69,18 @@ hr {
 }
 
 .step {
-	padding: 30px 15px;
+	padding: 20px 15px;
 	background-color: #DCDCDC;
 	color: #4D4D4D;
 	text-align: center;
-	min-height: 270px;
+	min-height: 210px;
 	margin: 20px 0;
 }
 
 
 .step strong {
 	font-size: 20px;
+	color: #0071A3;
 }
 
 .gray-text {
