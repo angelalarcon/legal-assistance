@@ -194,3 +194,7 @@ footer h4 {
 .follow-us img {
 	margin-left: 20px;
 }
+
+.text-justify {
+	text-align: justify;
+}
